@@ -6,7 +6,6 @@
 }
 
 /* Head */
-
 h1, p {
     text-align: center;
 }
@@ -18,7 +17,20 @@ h1 {
 }
 
 /* Gallery */
-
 .container {
     max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    width: 200px;
+    margin: 25px;
+    border: 1px solid #4A87E8;
+}
+
+.card-image {
+    height: 200px;
+    background-size: cover;
 }
