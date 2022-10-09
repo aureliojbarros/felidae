@@ -36,19 +36,19 @@ h1 {
 }
 
 .card-1 .card-image {
-    background-image: url("portfolio/img/cat.jpg");
+    background-image: url("../img/cat.jpg");
 }
 
 .card-2 .card-image {
-    background-image: url("/img/cat.jpg");
+    background-image: url("../img/cat.jpg");
 }
 
 .card-3 .card-image {
-    background-image: url("/img/cat.jpg");
+    background-image: url("../img/cat.jpg");
 }
 
 .card-4 .card-image {
-    background-image: url("/img/cat.jpg");
+    background-image: url("../img/cat.jpg");
 }
 
 .btn {
