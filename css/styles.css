@@ -16,8 +16,9 @@ h1 {
     color: #4a87e8;
 }
 
-.navbar bg-light {
-    border-top: 5px;
+.navbar {
+    margin: 0 !important;
+    padding: 0px !important;
 }
 
 .navbar-brand:h1 {
