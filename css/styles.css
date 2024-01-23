@@ -17,7 +17,7 @@ h1 {
 }
 
 .navbar bg-light {
-    padding-top: 5px;
+    border-top: 5px;
 }
 
 .navbar-brand:h1 {
