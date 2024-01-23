@@ -16,6 +16,10 @@ h1 {
     color: #4a87e8;
 }
 
+navbar-brand {
+    font-size: 10px;
+}
+
 /* Gallery */
 .container {
     max-width: 1200px;
