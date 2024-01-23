@@ -16,6 +16,10 @@ h1 {
     color: #4a87e8;
 }
 
+.navbar bg-light {
+    padding-top: 5px;
+}
+
 .navbar-brand:h1 {
     font-size: 10px;
 }
