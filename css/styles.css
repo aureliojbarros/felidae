@@ -73,3 +73,7 @@ h1 {
 .card-description {
     padding: 20px 10px;
 }
+
+.card-body {
+    background-color: #4A87E8;
+}
