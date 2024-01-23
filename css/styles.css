@@ -16,7 +16,7 @@ h1 {
     color: #4a87e8;
 }
 
-navbar-brand {
+.navbar-brand:h1 {
     font-size: 10px;
 }
 
